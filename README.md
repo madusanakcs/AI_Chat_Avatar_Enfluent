@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine.
 
 2. Download public.zip file here [https://drive.google.com/drive/folders/1-qnunYMSuw5XmQUr6_8fyWArYDlgqylO?usp=drive_link](https://drive.google.com/drive/folders/1-qnunYMSuw5XmQUr6_8fyWArYDlgqylO?usp=drive_link)
 
