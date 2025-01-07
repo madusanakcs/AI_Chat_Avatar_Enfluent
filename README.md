@@ -16,8 +16,11 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository to your local machine:
 
+2. Download public.zip file here [https://drive.google.com/drive/folders/1-qnunYMSuw5XmQUr6_8fyWArYDlgqylO?usp=drive_link](https://drive.google.com/drive/folders/1-qnunYMSuw5XmQUr6_8fyWArYDlgqylO?usp=drive_link)
 
-2. Install the project dependencies:
+3. Extract public.zip to Public folder
+
+4. Install the project dependencies:
 
    ```bash
    npm install
@@ -28,7 +31,6 @@ Make sure you have Node.js and npm installed on your machine.
 Before starting the project, you need to add your Convai API key and character ID in the `App.jsx` file.
 
 1. Open `src/App.jsx` in your preferred code editor.
-
 
 2. Locate the following lines:
 
