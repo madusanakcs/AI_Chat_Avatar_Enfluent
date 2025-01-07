@@ -1,4 +1,4 @@
-# React-Three-Fiber Convai-Lipsync Example
+# AI Chatbot Avatar
 
 ![Reallusion Convai Lipsync](/public/elena.png)
 
@@ -16,17 +16,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Conv-AI/Reallusion-web.git
-   ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd Reallusion-web
-   ```
-
-3. Install the project dependencies:
+2. Install the project dependencies:
 
    ```bash
    npm install
@@ -38,6 +29,7 @@ Before starting the project, you need to add your Convai API key and character I
 
 1. Open `src/App.jsx` in your preferred code editor.
 
+#### (Extra)
 2. Locate the following lines:
 
    ```jsx
@@ -58,11 +50,7 @@ npm run dev
 
 This will start the development server, and you can view the project at [http://localhost:5173](http://localhost:5172) in your web browser.
 
-## Usage
 
-Explore the project to understand how Convai-Lipsync is integrated with Reallusion characters in a real-time React Three Fiber application.
-
-Feel free to modify and extend the code for your own projects.
 
 ## Contributing
 
