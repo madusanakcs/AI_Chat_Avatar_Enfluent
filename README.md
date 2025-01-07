@@ -23,13 +23,13 @@ Make sure you have Node.js and npm installed on your machine.
    npm install
    ```
 
-### Configuration
+### Configuration (If you want change API keys)
 
 Before starting the project, you need to add your Convai API key and character ID in the `App.jsx` file.
 
 1. Open `src/App.jsx` in your preferred code editor.
 
-#### (Extra)
+
 2. Locate the following lines:
 
    ```jsx
